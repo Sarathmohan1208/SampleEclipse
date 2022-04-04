@@ -7,5 +7,6 @@ public class Sample2 {
 		System.out.println("Hi");
 		System.out.println("Second edit");
 		System.out.println("Second edit");
+		System.out.println("Thirds edit");
 	}
 }
